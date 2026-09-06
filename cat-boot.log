@@ -1,0 +1,6 @@
+[2026-08-10T03:15:03.373Z] boot banner ran node=v20.18.0 cwd=C:\Users\ShuLeiOK\Desktop\Lmentor
+[2026-08-10T03:15:03.410Z] [webApiGlobalsShim] before: fetch=function Headers=function Request=function | require undici threw: Cannot find module 'undici'
+Require stack:
+- C:\Users\ShuLeiOK\Desktop\Lmentor\index.js
+- C:\Users\ShuLeiOK\Desktop\Lmentor\__wrapper.js | injected=false
+[2026-08-10T03:15:03.615Z] bundle fully loaded module.exports keys=start,stop
